@@ -1,2 +1,2 @@
 # Vuedemo
-this is vue demo
+This is a vue demo
